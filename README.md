@@ -1,6 +1,6 @@
-# Checkers Game with AI
+# Checkers Game with AI opponent
 
-A Python-based Checkers game with three difficulty levels of AI opponent, built using Tkinter.
+A Checkers game with three difficulty levels of AI opponent written in python.
 
 ## Features
 
